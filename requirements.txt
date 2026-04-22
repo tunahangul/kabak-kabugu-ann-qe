@@ -1,7 +1,7 @@
-streamlit==1.32.0
-tensorflow-cpu==2.10.0
-pandas
-numpy
-scikit-learn
-joblib
-h5py
+streamlit==1.56.0
+tensorflow==2.21.0
+pandas==2.3.3
+numpy==2.2.6
+scikit-learn==1.7.2
+joblib==1.5.3
+h5py==3.14.0
